@@ -39,5 +39,3 @@ func main() {
 	fmt.Println(val)
 
 }
-
-// GOPROXY="https://edge.artifactory.ouroath.com:4443/artifactory/go-proxy,https://proxy.golang.org,direct"
